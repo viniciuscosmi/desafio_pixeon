@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'cucumber'
+gem 'pry'
+gem 'watir'
+gem 'byebug'
+gem 'rspec'
