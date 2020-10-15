@@ -1,5 +1,5 @@
 class SaucelabsPage
-  
+
   def initialize(browser)
     @browser = browser
     @solutions = @browser.div(:class => ['_2r81','lltz'])

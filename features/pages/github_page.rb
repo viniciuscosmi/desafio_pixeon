@@ -1,5 +1,5 @@
 class GithubPage
-  
+
   def initialize(browser)
     @browser = browser
     @search = @browser.text_field(:name => 'q')
