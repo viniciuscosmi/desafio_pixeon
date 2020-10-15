@@ -1,5 +1,5 @@
 class ExtentreportsPage
-  
+
   def initialize(browser)
     @browser = browser
     @documentation = @browser.a(:text => 'Documentation')
